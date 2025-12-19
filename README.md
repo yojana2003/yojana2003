@@ -64,7 +64,7 @@
 ---
 
 ## 📫 Connect With Me
-- 🔗 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 🔗 GitHub: https://github.com/yojana2003?tab=repositories
 - 💼 LinkedIn: https://www.linkedin.com/in/yojana-chaudhari-086924397/
 - 📧 Email: yojanachaudhari03@gmail.com
 
