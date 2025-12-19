@@ -33,15 +33,18 @@
 
 ### 🔹 React Projects
 
-**✅ Todo App**
-- Add, edit, delete tasks
-- Built using React & Tailwind CSS
-- Fully responsive UI
 
-**✅ Login & Registration UI**
-- React-based authentication UI
-- Clean form validation
-- Tailwind CSS styling
+**🍔 Food Rush Webpage**
+- Food ordering website UI
+- Built using **HTML, CSS, JavaScript,react
+- Responsive layout with modern design
+- Product listing and user-friendly interface
+
+**🧪 Lab Management Project**
+- Frontend UI for lab management system
+- Displays lab records, tests, and reports
+- Built using **HTML, CSS, JavaScript
+- Clean dashboard-style layout
 
 **✅ Portfolio Website**
 - Personal portfolio built with React
