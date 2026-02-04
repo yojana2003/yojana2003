@@ -9,10 +9,13 @@ This repository showcases my completed and ongoing projects, demonstrating my sk
 ---
 
 ## 🚀 About Me
-- 🌱 Frontend Developer fresher
-- ⚛️ Built **3–4 frontend projects using React**
-- 🎨 Love creating clean and modern UI designs
-- 📚 Currently improving my React & JavaScript skills
+I am a passionate MERN Stack Developer with hands-on experience in building modern, responsive, and scalable web applications. I enjoy turning ideas into real-world products using MongoDB, Express.js, React.js, and Node.js.
+
+I have worked on full-stack projects like FoodRush, a food ordering application, along with multiple React-based projects that focus on clean UI, performance, and user experience. I am comfortable working on both frontend and backend, creating REST APIs, handling authentication, and managing databases.
+
+Currently, I am enhancing my skills in secure authentication, backend optimization, and advanced React concepts, while continuously learning new technologies to stay up to date in the fast-evolving web development world.
+
+I am a quick learner, problem solver, and a team-oriented developer who enjoys building impactful and efficient web solutions.s
 
 ---
 
@@ -25,10 +28,19 @@ This repository showcases my completed and ongoing projects, demonstrating my sk
 - React.js  
 - Tailwind CSS  
 
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+- Mongoose
+
 ### Tools
 - Git & GitHub  
 - VS Code  
-- Chrome DevTools  
+- Postman
 
 ---
 
@@ -54,22 +66,24 @@ This repository showcases my completed and ongoing projects, demonstrating my sk
 - Responsive design
 - Showcases skills & projects
 
-  🔐 Password Generator
+**✅ Password Generator
 -  Generate strong & random passwords
 -  Choose password length
 -  Copy password to clipboard
 
+ **✅ SoundWave (React Project – Ongoing)
+- Music listing UI
+- Reusable React components
+- Responsive layout
+
+
+### 🔹 full stack Projects
 
 **✅ Authentication System (Ongoing)
 - User singin & login
 - JWT-based authentication
 - Password hashing
 - Protected routes
-
-**✅ SoundWave (React Project – Ongoing)
-- Music listing UI
-- Reusable React components
-- Responsive layout
 
 
 ---
