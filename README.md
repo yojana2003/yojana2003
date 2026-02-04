@@ -1,7 +1,10 @@
 # Hi 👋, I'm Yojana Chaudhari
 
-🎓 **Frontend Developer | Fresher**  
-💻 Passionate about building responsive and user-friendly web applications using React
+Full Stack Developer 
+
+Hi! I'm a Full Stack Developer passionate about building modern, scalable, and user-friendly web applications using the MERN Stack.
+
+This repository showcases my completed and ongoing projects, demonstrating my skills in frontend development, backend APIs, authentication, and full‑stack architecture.
 
 ---
 
@@ -51,7 +54,23 @@
 - Responsive design
 - Showcases skills & projects
 
-*(More projects coming soon 🚀)*
+  🔐 Password Generator
+-  Generate strong & random passwords
+-  Choose password length
+-  Copy password to clipboard
+
+
+**✅ Authentication System (Ongoing)
+- User singin & login
+- JWT-based authentication
+- Password hashing
+- Protected routes
+
+**✅ SoundWave (React Project – Ongoing)
+- Music listing UI
+- Reusable React components
+- Responsive layout
+
 
 ---
 
