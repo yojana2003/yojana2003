@@ -67,24 +67,23 @@ I am a quick learner, problem solver, and a team-oriented developer who enjoys b
 - Showcases skills & projects
 
 **✅ Password Generator
--  Generate strong & random passwords
--  Choose password length
--  Copy password to clipboard
+- Generate strong & random passwords
+- Choose password length
+- Copy password to clipboard
 
- **✅ SoundWave (React Project – Ongoing)
-- Music listing UI
-- Reusable React components
-- Responsive layout
+- ### 🔹 full stack Projects
 
-
-### 🔹 full stack Projects
-
-**✅ Authentication System (Ongoing)
+**✅ Authentication System 
 - User singin & login
 - JWT-based authentication
 - Password hashing
 - Protected routes
 
+ **✅ Airbnb e-commerce (on-going)
+- Full-stack accommodation booking platform inspired by Airbnb
+- Built using React.js, Express.js, Node.js, and MongoDB
+- Features user authentication, property listings, and booking management
+- Responsive design with dynamic data handling and RESTful API integration
 
 ---
 
